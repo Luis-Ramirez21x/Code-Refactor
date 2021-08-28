@@ -3,4 +3,5 @@ The attached html and CSS files show the refactoring that was done to shorten a 
 
 Below are some screenshots of the refactoring and edits that were done to fit DRY standards. 
 
-(C:\Users\Luis Ramirez\Boot-Camp\grade-assignments\code-refactor\Code-Refactor\images\Code-refactor-screenshots\before.PNG)
+
+![before](https://user-images.githubusercontent.com/86748117/131232554-bbf4f4df-67e9-4b39-aa4b-0aeb82b14025.PNG)
